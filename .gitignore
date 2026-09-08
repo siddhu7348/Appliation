@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ForecastIQ
+node_modules/
+frontend/dist/
+frontend/node_modules/
+backend/.venv/
+*.db
+artifacts/*
+!artifacts/.gitkeep
+.env.local
